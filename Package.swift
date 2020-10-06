@@ -108,7 +108,7 @@ let package = Package(
       name: "nanopb",
       url: "https://github.com/nanopb/nanopb.git",
       // This revision adds SPM enablement to the 0.3.9.6 release tag.
-      .revision("3cfa21200eea012d8765239ad4c50d8a36c283f1")
+      .revision("8119dfe5631f2616d11e50ead95448d12e816062")
     ),
     .package(
       name: "abseil",
